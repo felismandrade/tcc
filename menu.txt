@@ -1,0 +1,30 @@
+
+Controle
+
+menu (esquerdo)
+	Cadastro: 
+			Usuários funcionários
+			Dados de alunos
+			Séries
+	        Justificativas
+
+	Gerenciar:
+			Pesquisar alunos
+			Perfis
+			séries
+			Encaminhamento
+			Notificações
+			
+	Dashboards:
+			Justificativas
+			Quantitativo
+			
+	Relatórios
+	
+	Sobre [TCC]
+	
+menu (direito)
+	Meu Perfil
+	Sair
+
+	
